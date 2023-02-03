@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejeba72
-- 👀 I’m interested in backend web development.
-- 🌱 I’m presently learning how to set-up APIs with Node, Express and MongoDB.
+- 👀 I’m an aspiring backend engineer.
+- 🌱 I’m presently a student @ AltSchool Africa.
 - 💞️ I’m looking to collaborate on open-source projects written in JavaScript.
 - 📫 How to reach me; eejeba@gmail.com.
 
