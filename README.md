@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ejeba72
-- 👀 I’m an aspiring electronics engineer.
+- 👀 I’m an aspiring mechatronics engineer.
 - 🌱 I'm currently learning and trying my hand at embedded systems programming.
 - 💞️ I’m looking to get involved in developing automotive embedded systems.
 - 📫 How to reach me; eejeba@gmail.com.
