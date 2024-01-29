@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejeba72
-- 👀 I’m an aspiring backend engineer.
-- 🌱 I’m presently a student at AltSchool Africa.
-- 💞️ I’m looking to collaborate on open-source projects written in JavaScript.
+- 👀 I’m an aspiring electronics engineer.
+- 🌱 I'm currently learning and trying my hand at embedded systems programming.
+- 💞️ I’m looking to get involved in developing automotive embedded systems.
 - 📫 How to reach me; eejeba@gmail.com.
 
 <!---
