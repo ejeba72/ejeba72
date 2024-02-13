@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejeba72
 - 👀 I’m an aspiring electronic engineer.
 - 🌱 I'm currently learning and trying my hand at embedded systems programming.
-- 💞️ I’m looking to get involved in designing and developing electronic subsystems for vehicle control systems systems.
+- 💞️ I’m looking to get involved in designing and developing electronic subsystems for motor racing cars.
 - 📫 How to reach me; eejeba@gmail.com.
 
 <!---
