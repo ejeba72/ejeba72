@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejeba72
-- 👀 I’m a rookie electronics hobbyist, programmer, motor racing enthusiast and an aspiring electronics engineer.
-- 🌱 I'm currently learning and trying my hand at embedded systems programming.
+- 👀 I’m a rookie electronics hobbyist, programmer, motor racing enthusiast, HAN student and an aspiring automotive engineer.
+- 🌱 I'm currently learning and trying my hand at embedded systems programming as well as studying Electrical And Electronics Engineering at the HAN.
 - 💞️ I’m looking to get involved in designing and developing electronic subsystems for motor racing cars.
 - 📫 How to reach me; eejeba@gmail.com.
 
