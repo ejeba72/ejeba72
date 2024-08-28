@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejeba72
-- 👀 I’m a rookie hardware programmer, motor racing enthusiast, HAN student and an aspiring automotive engineer.
-- 🌱 I'm currently studying Electrical And Electronics Engineering at the HAN.
+- 👀 I’m a rookie assembly language programmer, motor racing enthusiast, HAN student and an aspiring automotive engineer.
+- 🌱 I'm currently studying Electrical And Electronics Engineering at the HAN University of Applied Sciences.
 - 💞️ I’m looking to get involved in designing and developing electronic subsystems for motor racing cars.
 - 📫 How to reach me; eejeba@gmail.com.
 
